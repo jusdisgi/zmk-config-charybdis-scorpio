@@ -142,7 +142,6 @@
         bindings
             = <&macro_param_1to2>
             , <&macro_tap &bt BT_SEL MACRO_PLACEHOLDER>
-            , <&macro_tap &out OUT_BLE>
             ;
     };
 
